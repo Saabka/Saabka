@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Saabka
+- 👀 I’m interested in expanding my knowledge on programming/coding 
+- 🌱 I’m currently learning object-oriented programing and application development tools using C++, Python, Javascript, MySQL
+- 📫 How to reach me - Saabka46@gmail.com
